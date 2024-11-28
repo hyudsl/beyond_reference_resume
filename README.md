@@ -79,10 +79,10 @@ For more detailed information on training options and configuration file setting
 
 We release checkpoints that are built on top of the unified metric architecture in the COMET repository. Download and unzip files.
 
-- ResuMe18-base: This model is trained using the WMT 17-18 DA datasets and built on the InfoXLM-base model.
-- ResuMe19-base: This model is trained using the WMT 17-19 DA datasets and built on the InfoXLM-base model.
-- ResuMe20-base: This model is trained using the WMT 17-20 DA datasets and built on the InfoXLM-base model.
-- ResuMe20-large: This model is trained using the WMT 17-20 DA datasets and built on the InfoXLM-large model.
+- [RESUME18-base](https://drive.google.com/file/d/166pZQDXxpr27u577IE-u2p4zi0L5RXcl/view?usp=sharing): This model is trained using the WMT 17-18 DA datasets and built on the InfoXLM-base model.
+- [RESUME19-base](https://drive.google.com/file/d/16BpMok-P22TDg9hXNNw0jP2tasYnSlnc/view?usp=sharing): This model is trained using the WMT 17-19 DA datasets and built on the InfoXLM-base model.
+- [RESUME20-base](https://drive.google.com/file/d/16KI1ps2xNCB96PnYUZFOq_WZwv-OyIjV/view?usp=sharing): This model is trained using the WMT 17-20 DA datasets and built on the InfoXLM-base model.
+- [RESUME20-large](https://drive.google.com/file/d/16QxTeAMB2Zfgk6tT8WZco8udTgEXEl50/view?usp=sharing): This model is trained using the WMT 17-20 DA datasets and built on the InfoXLM-large model.
 
 Using the `comet-score` command, you can run the provided checkpoints.
 
