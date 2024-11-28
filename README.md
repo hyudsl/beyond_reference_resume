@@ -29,6 +29,9 @@ For detailed installation instructions, troubleshooting, and supported features,
 Ensure your Python environment is properly set up and compatible with the COMET package before proceeding.
 
 ## 3. Preparing training data
+<p align="center">
+  <img src="image/training_process.png" alt="training_process">
+</p>
 
 The direct annotation (DA) data of the WMT metric shared tasks were used to train ResuMe.
 
