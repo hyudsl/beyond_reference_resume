@@ -5,8 +5,8 @@ Welcome to the official repository for the paper: [Beyond Reference: Evaluating 
 ResuMe is the first reference-based MT metric that does not consider the human reference translation as a “perfect” gold standard where an MT output is compared.
 
 ### Quick Start Guide
-* To train the ResuMe model, see [Section 2: Requirements](#1-requirements) and [Section 3: Training](#2-training).
-* To use model checkpoints, see [Section 2: Requirements](#1-requirements) and [Section 4: Models](#3-models).
+* To train the ResuMe model, see [Section 1: Requirements](#1-requirements) and [Section 2: Training](#2-training).
+* To use model checkpoints, see [Section 1: Requirements](#1-requirements) and [Section 3: Models](#3-models).
 
 ## 1. Requirements
 
